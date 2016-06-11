@@ -51,25 +51,27 @@
      <Compile Include="Assets\2DAnim\UIController.cs" />
      <Compile Include="Assets\2DAnim\UIController2.cs" />
      <Compile Include="Assets\2DAnim\main.cs" />
-     <Compile Include="Assets\3DDefault\Roll2.cs" />
+     <Compile Include="Assets\3DGeo\Roll2.cs" />
      <Compile Include="Assets\3DShader\Roll.cs" />
      <Compile Include="Assets\AddSelectedAnimationsToRig.cs.cs" />
      <Compile Include="Assets\CRTShader\CRT.cs" />
      <Compile Include="Assets\CircleMask\CMask.cs" />
      <Compile Include="Assets\EnumTest\Enum.cs" />
      <None Include="Assets\3DShader\Sprite-Grayscale.shader" />
-     <None Include="Assets\3DDefault\GeoTest001.shader" />
-     <None Include="Assets\3DDefault\GeoSample000.shader" />
+     <None Include="Assets\3DGeo\GeoTest001.shader" />
+     <None Include="Assets\3DGeo\GeoSample000.shader" />
      <None Include="Assets\3DShader\NewShader.shader" />
+     <None Include="Assets\3DShader\Frag00.shader" />
+     <None Include="Assets\3DGeo\GeoTest003.shader" />
      <None Include="Assets\CircleMask\CMask.shader" />
-     <None Include="Assets\3DDefault\GeoTest000.shader" />
+     <None Include="Assets\3DGeo\GeoTest000.shader" />
      <None Include="Assets\3DShader\UnlitShader.shader" />
-     <None Include="Assets\3DDefault\Sprite-Default.shader" />
+     <None Include="Assets\3DGeo\Sprite-Default.shader" />
      <None Include="Assets\CRTShader\CRT.shader" />
      <None Include="Assets\3DShader\NewShader02.shader" />
      <None Include="Assets\3DShader\myshader01.shader" />
-     <None Include="Assets\3DDefault\NewComputeShader.compute" />
-     <None Include="Assets\3DDefault\GeoTest002.shader" />
+     <None Include="Assets\3DGeo\NewComputeShader.compute" />
+     <None Include="Assets\3DGeo\GeoTest002.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
